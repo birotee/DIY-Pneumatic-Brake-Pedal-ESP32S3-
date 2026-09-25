@@ -1,0 +1,5 @@
+* text=auto
+*.exe binary
+*.pdf binary
+*.png binary
+*.stl binary

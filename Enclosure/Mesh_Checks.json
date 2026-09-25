@@ -1,0 +1,20 @@
+{
+  "base": {
+    "triangles": 104240,
+    "dimensions_mm": [
+      101.0,
+      101.0,
+      47.0
+    ],
+    "closed_edges": true
+  },
+  "lid": {
+    "triangles": 63472,
+    "dimensions_mm": [
+      108.0,
+      108.0,
+      11.0
+    ],
+    "closed_edges": true
+  }
+}

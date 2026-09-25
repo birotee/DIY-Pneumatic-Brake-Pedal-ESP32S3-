@@ -1,0 +1,11 @@
+# Local work and editor/build files
+.vs/
+.vscode/
+*.user
+*.suo
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+backups/
+work/

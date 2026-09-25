@@ -51,4 +51,3 @@ The enclosure is a fit-check prototype; its mesh edges were checked but physical
 Based on the Jack-Pneumatic project by LandoCode89.
 The bundled ADS1220_WE library was written by Wolfgang (Wolle) Ewald; its source notices are retained.
 No new license is assigned by this upload preparation.
-
