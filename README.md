@@ -2,6 +2,14 @@
 
 ESP32-S3 pneumatic brake controller using an ADS1220 and a 3.3 V, 0.4-2.4 V, 0-10 bar pressure sensor.
 
+## Build photos
+
+![Pneumatic brake pedal assembly](Documentation/Photos/pedal-assembly.jpeg)
+
+![Side view of the pneumatic cylinder and pedal](Documentation/Photos/pedal-side.jpeg)
+
+![Pressure gauge and cylinder detail](Documentation/Photos/pedal-detail.jpeg)
+
 ## Files
 
 - `JackPedal_PC/`: Arduino firmware and bundled ADS1220 library.
